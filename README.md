@@ -1,5 +1,5 @@
 # SuperMarketRunner
-Super-Market-Runner
+
 Super Market Runner um jogo desenvolvido para a disciplina projeto integrado III da PUC, no curso de Jogos Digitais.
 
 Link para o jogo: https://lukexz.itch.io/super-market-runner
