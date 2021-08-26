@@ -10,7 +10,7 @@ Super Market Runner é um jogo 3D onde percorremos um supermercado com um cadeir
 
 # Imagens
 
-<IMAGENS src="/IMAGENS/3.png" alt="img_3"/>
-<IMAGENSsrc="/IMAGENS/2.png" alt="img_2"/>
-<IMAGENS src="/IMAGENS/1.png" alt="img_1"/>
-<IMAGENS src="/IMAGENS/4.png" alt="img_4"/>
+<imag src="/IMAGENS/3.png" alt="img_3"/>
+<imag src="/IMAGENS/2.png" alt="img_2"/>
+<imag src="/IMAGENS/1.png" alt="img_1"/>
+<imag src="/IMAGENS/4.png" alt="img_4"/>
